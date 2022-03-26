@@ -1,6 +1,5 @@
 package lab_program;
-
-//HOD Class 
+ 
 public class HOD {
  public static void main(String[] args) {
      // Creating object of Professor class
